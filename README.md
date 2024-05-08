@@ -1,6 +1,6 @@
 # VillaSol-Hotel
 
-Desarrollé una página web desde cero, comenzando con el diseño del Home en Figma y luego transformando esos diseños en componentes funcionales utilizando React con Vite. Me aseguré de que cada elemento fuera coherente con nuestra visión, implementando estilos CSS y Sass responsivos para una experiencia de usuario óptima.
+Desarrollamos una página web desde cero, comenzando con el diseño del Home en Figma (por mi parte) y luego transformando esos diseños en componentes funcionales utilizando React con Vite. Me aseguré de que cada elemento fuera coherente con nuestra visión, implementando estilos CSS y Sass responsivos para una experiencia de usuario óptima.
 
 Mi rol abarcó el desarrollo y diseño de varios componentes clave, incluyendo el footer, banner, navbar, card del Home, así como las páginas 404 y de restaurantes junto con sus respectivos componentes. Además, me encargué de darle los últimos toques de diseño.
 
