@@ -1,12 +1,12 @@
 # VillaSol-Hotel
 
-Desarrollamos una página web desde cero, comenzando con el diseño del Home en Figma (por mi parte) y luego transformando esos diseños en componentes funcionales utilizando React con Vite. Me aseguré de que cada elemento fuera coherente con nuestra visión, implementando estilos CSS y Sass responsivos para una experiencia de usuario óptima.
+We developed a website from scratch, starting with the Home design in Figma (on my part) and then transforming those designs into functional components using React with Vite. I made sure every element was consistent with our vision, implementing responsive CSS and Sass styling for an optimal user experience.
 
-Mi rol abarcó el desarrollo y diseño de varios componentes clave, incluyendo el footer, banner, navbar, card del Home, así como las páginas 404 y de restaurantes junto con sus respectivos componentes. Además, me encargué de darle los últimos toques de diseño.
+My role covered the development and design of several key components, including the footer, banner, navbar, home card, as well as the 404 and restaurant pages along with their respective components. In addition, I was in charge of giving it the final design touches.
 
-Utilizamos herramientas como Miró, Figma, Trello y Github para mantenernos organizados y colaborar eficientemente. Esta combinación de herramientas nos permitió cumplir con nuestro plazo de entrega de un mes, mientras manteníamos un alto nivel de calidad en el desarrollo y diseño del proyecto.
+We use tools like Miró, Figma, Trello and Github to stay organized and collaborate efficiently. This combination of tools allowed us to meet our one-month delivery deadline, while maintaining a high level of quality in project development and design.
 
-Quiero agradecer a mis compañeros de equipo por su dedicación y contribución al proyecto:
+I want to thank my teammates for their dedication and contribution to the project:
 
 Marina Matas (github.com/Marinamaatas) </br>
 Enrique Ghijs (github.com/Bees7nees) </br>
