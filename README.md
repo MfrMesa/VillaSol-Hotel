@@ -6,6 +6,29 @@ My role covered the development and design of several key components, including 
 
 We use tools like Miró, Figma, Trello and Github to stay organized and collaborate efficiently. This combination of tools allowed us to meet our one-month delivery deadline, while maintaining a high level of quality in project development and design.
 
+# Tech Stack: 
+CSS </br>
+REACT </br>
+FIGMA </br>
+MIRO </br>
+TRELLO </br>
+
+# How to initiate the project:
+
+1) Download the Files:
+   Download the game source code from the GitHub repository or clone it using Git.
+
+2) Install Dependencies:
+   Once downloaded, navigate to the project directory in your terminal and install all dependencies using the command npm install.
+
+3) Start the Development Server:
+   After installing dependencies, start the development server by running npm run dev in the terminal.
+
+4) Open in Browser:
+   Once the development server is running, open your web browser and navigate to localhost:5177 to view the project.
+   
+# Collaborators: 
+
 I want to thank my teammates for their dedication and contribution to the project:
 
 Marina Matas (github.com/Marinamaatas) </br>
