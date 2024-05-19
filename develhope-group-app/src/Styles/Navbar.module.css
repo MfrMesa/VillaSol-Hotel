@@ -1,0 +1,78 @@
+@import url(font.css);
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+    background: #FFF;
+    cursor: pointer;
+    position: relative;
+}
+
+.navTopContainer{
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    width: 100%;
+    list-style: none;
+    height: 100%;
+    gap: 3rem;
+    padding-right: 2rem;
+}
+
+.logo{
+    width: 100px;
+    height: 110px;
+    flex-shrink: 0;
+    margin-left: 2rem;
+}
+
+.navLinks{
+    color: #314960;
+    font-family: "Spline Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.5px; 
+    letter-spacing: 0.7px;
+    text-decoration: none;
+}
+
+.navLinks:hover {
+    color: #53718b;
+    text-decoration: underline;
+}
+
+
+.boton{
+    margin-right: 2rem;
+    margin-left: 1rem;
+}
+
+
+.langButton{
+    border: 2px solid  #53718b;
+    padding: 0.2rem;
+    margin: 0.2rem;
+    background-color: var(--white);
+    color: #53718b;
+    font-weight: 600;
+    font-size: 0.8rem;
+}
+
+.langButton:hover{
+    color: white;
+    background: #53718b;
+    transition: all 0.5s ease;
+}
+
+
+@media (max-width: 768px){
+
+    .navLinks,
+    .boton{
+        display: none;
+    }
+
+}
