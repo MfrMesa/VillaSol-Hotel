@@ -1,0 +1,25 @@
+.contact-prompt-header,
+.contact-prompt-header * {
+  box-sizing: border-box;
+}
+.contact-prompt-header {
+  background: var(--white, #ffffff);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+}
+.expand-more {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+
+.contact-text {
+  text-align: center;
+  font-family: "PlayfairDisplay-Bold";
+  flex: 1;
+}
