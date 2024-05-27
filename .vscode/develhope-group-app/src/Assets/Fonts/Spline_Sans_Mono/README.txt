@@ -1,73 +1,25 @@
-Spline Sans Mono Variable Font
-==============================
+We developed a website from scratch, starting with the Home design in Figma (on my part) and then transforming those designs into functional components using React with Vite. I made sure every element was consistent with our vision, implementing responsive CSS and Sass styling for an optimal user experience.
 
-This download contains Spline Sans Mono as both variable fonts and static fonts.
+My role covered the development and design of several key components, including the footer, banner, navbar, home card, as well as the 404 and restaurant pages along with their respective components. In addition, I was in charge of giving it the final design touches.
+My role covered the development and design of several key components, including the footer, banner, navbar, home card, the implementation of language change functionality as well as the 404 and restaurant pages along with their respective components. In addition, I was in charge of giving it the final design touches.
 
-Spline Sans Mono is a variable font with this axis:
-  wght
+We use tools like Miró, Figma, Trello and Github to stay organized and collaborate efficiently. This combination of tools allowed us to meet our one-month delivery deadline, while maintaining a high level of quality in project development and design.
 
-This means all the styles are contained in these files:
-  Spline_Sans_Mono/SplineSansMono-VariableFont_wght.ttf
-  Spline_Sans_Mono/SplineSansMono-Italic-VariableFont_wght.ttf
 
-If your app fully supports variable fonts, you can now pick intermediate styles
-that aren’t available as static fonts. Not all apps support variable fonts, and
-in those cases you can use the static font files for Spline Sans Mono:
-  Spline_Sans_Mono/static/SplineSansMono-Light.ttf
-  Spline_Sans_Mono/static/SplineSansMono-Regular.ttf
-  Spline_Sans_Mono/static/SplineSansMono-Medium.ttf
-  Spline_Sans_Mono/static/SplineSansMono-SemiBold.ttf
-  Spline_Sans_Mono/static/SplineSansMono-Bold.ttf
-  Spline_Sans_Mono/static/SplineSansMono-LightItalic.ttf
-  Spline_Sans_Mono/static/SplineSansMono-Italic.ttf
-  Spline_Sans_Mono/static/SplineSansMono-MediumItalic.ttf
-  Spline_Sans_Mono/static/SplineSansMono-SemiBoldItalic.ttf
-  Spline_Sans_Mono/static/SplineSansMono-BoldItalic.ttf
+@@ -16,13 +16,13 @@ TRELLO </br>
+# How to initiate the project:
 
-Get started
------------
+1) Download the Files:
+   Download the game source code from the GitHub repository or clone it using Git.
+   Download the source code from the GitHub repository or clone it using Git.
 
-1. Install the font files you want to use
+2) Install Dependencies:
+   Once downloaded, navigate to the project directory in your terminal and install all dependencies using the command npm install.
 
-2. Use your app's font picker to view the font family and all the
-available styles
+3) Start the Development Server:
+   After installing dependencies, start the development server by running npm run dev in the terminal.
+   After installing dependencies, start the development server by running npm run dev inside the folder develhope-group-app in the terminal.
 
-Learn more about variable fonts
--------------------------------
+4) Open in Browser:
+   Once the development server is running, open your web browser and navigate to localhost:5177 to view the project.
 
-  https://developers.google.com/web/fundamentals/design-and-ux/typography/variable-fonts
-  https://variablefonts.typenetwork.com
-  https://medium.com/variable-fonts
-
-In desktop apps
-
-  https://theblog.adobe.com/can-variable-fonts-illustrator-cc
-  https://helpx.adobe.com/nz/photoshop/using/fonts.html#variable_fonts
-
-Online
-
-  https://developers.google.com/fonts/docs/getting_started
-  https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts/Variable_Fonts_Guide
-  https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/variable-fonts
-
-Installing fonts
-
-  MacOS: https://support.apple.com/en-us/HT201749
-  Linux: https://www.google.com/search?q=how+to+install+a+font+on+gnu%2Blinux
-  Windows: https://support.microsoft.com/en-us/help/314960/how-to-install-or-remove-a-font-in-windows
-
-Android Apps
-
-  https://developers.google.com/fonts/docs/android
-  https://developer.android.com/guide/topics/ui/look-and-feel/downloadable-fonts
-
-License
--------
-Please read the full license text (OFL.txt) to understand the permissions,
-restrictions and requirements for usage, redistribution, and modification.
-
-You can use them in your products & projects – print or digital,
-commercial or otherwise.
-
-This isn't legal advice, please consider consulting a lawyer and see the full
-license for all details.
