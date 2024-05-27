@@ -5,7 +5,6 @@ This download contains Playfair Display as both variable fonts and static fonts.
 
 Playfair Display is a variable font with this axis:
   wght
-  ...........
 
 This means all the styles are contained in these files:
   Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf
